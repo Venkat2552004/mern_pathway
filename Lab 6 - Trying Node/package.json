@@ -1,0 +1,14 @@
+{
+    "name" : "calci",
+    "version" : "1.1.0",
+    "main" : "calci",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/Venkat2552004/mern_pathway/tree/21e83f8c913abbe7fc1d6264dbdc1012a7c1a074/Lab%206%20-%20Trying%20Node"
+    },
+    "keywords" : ["venkat2552004"],
+    "dependencies": {},
+    "engines" : {
+        "node" : "*"
+    }
+}
