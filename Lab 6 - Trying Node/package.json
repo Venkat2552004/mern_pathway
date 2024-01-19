@@ -1,0 +1,14 @@
+{
+    "name" : "calci_testing",
+    "version" : "1.1.0",
+    "main" : "calci",
+    "repository": {
+        "type" : "git",
+        "url" : "https://github.com/Venkat2552004/mern_pathway/tree/af9e3c95a329678cd7f397fe00418d4aeca4a959/Lab%206%20-%20Trying%20Node/npm%20package%20test"
+    },
+    "keywords" : ["venkat2552004"],
+    "dependencies": {},
+    "engines" : {
+        "node" : "*"
+    }
+}
