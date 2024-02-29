@@ -13,7 +13,6 @@ app.use(function(req, res, next) {
 app.get('/api/data', (req,res) => {
     const pathToData = path.join(__dirname, 'data.json')
     const data = fs.readFileSync(pathToData)
-    console.log(JSON.parse(data))
     res.json(JSON.parse(data))
 })
 
