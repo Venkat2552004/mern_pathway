@@ -1,0 +1,17 @@
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+table th,
+table td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid #252424;
+
+}
+
+table th {
+    background-color: #ae9999;
+}

@@ -1,0 +1,45 @@
+[
+    {
+        "id": "E0",
+        "name": "Mahesh",
+        "age": 18,
+        "country": "India",
+        "trait": "Delusional"
+    },
+    {
+        "id": "J0",
+        "name": "Hemanth",
+        "age": 20,
+        "country": "US-Africa",
+        "trait": "Racist"
+    },
+    {
+        "id": "E3",
+        "name": "Shashank",
+        "age": 6,
+        "country": "India",
+        "trait": "Delusional Ultra Pro Max"
+    },
+    {
+        "id": "G0",
+        "name": "Fasi",
+        "age": 45,
+        "country": "Portugal",
+        "trait": "Matrix Escaper"
+    },
+    {
+        "id": "J1",
+        "name": "Phani Hemanth",
+        "age": 20,
+        "country": "USA",
+        "trait": "long hair or no hair"
+    },
+    {
+        "id": "I8",
+        "name": "Varaprasad",
+        "age": "123",
+        "country": "No origin",
+        "trait": "Loves anything after 12"
+    }
+    
+]
