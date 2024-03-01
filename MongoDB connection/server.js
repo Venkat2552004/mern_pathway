@@ -1,5 +1,4 @@
-const { connect } = require('http2');
-const {MongoClient, ObjectId} = require('mongodb');
+const {MongoClient} = require('mongodb');
 require('dotenv').config();
 
 const client = new MongoClient(process.env.MONGO_URI);
